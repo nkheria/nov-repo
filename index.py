@@ -1,2 +1,3 @@
 print("Welcome to Version Control System")
-vcs = "git"
+vcs = "GIT"
+print(f"welcome to {vcs} module")
